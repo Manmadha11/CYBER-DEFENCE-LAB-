@@ -73,10 +73,11 @@ The lab is now prepared for SIEM service validation and subsequent attack simula
 
 ![VM Overview](GITHUB/vm-overview.png)
 
-![IP Verification](GITHUB\wazuh-ip.png)
-![IP Verification](GITHUB\kali_ip.png)
-![IP Verification](GITHUB\vm-overview.png)
+![IP Verification](GITHUB/wazuh-ip.png)
+![IP Verification](GITHUBkali_ip.png)
+![IP Verification](GITHUBvm-overview.png)
 
-![Connectivity Test](GITHUB\ping-test_bwt-vms.png)
+![Connectivity Test](GITHUB/ping-test_bwt-vms.png)
+
 
 
