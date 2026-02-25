@@ -68,9 +68,13 @@ With monitoring validated, the lab can now safely proceed to attack surface disc
 
 => WAZUH DASHBOARD 
 ![wazuh-dashboard](../GITHUB\w1.png)
+
 ![wazuh-dashboard](../w2.png)
-![wazuh-dashboard](../GITHUB\w3.png)
+
+![wazuh-dashboard](../w3.png)
+
 ![wazuh-dashboard](../w4.png)
+
 
 
 
