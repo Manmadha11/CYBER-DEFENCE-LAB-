@@ -44,7 +44,11 @@ Phase 6 confirms that the SIEM platform successfully detected the simulated brut
 This validates the effectiveness of log collection, correlation, and alert generation within the lab environment.
 The environment is now ready for detection engineering and custom rule development.
 
-![SIEM-dashboard-logs](C:\Users\manma\OneDrive\Pictures\GITHUB\logs-w.png)
+=> DASHBOARD LOGS
+![SIEM-dashboard-logs](../logs-w.png)
 
-![Victim-logs](C:\Users\manma\OneDrive\Pictures\GITHUB\logs-A.png)
-![Victim-logs](C:\Users\manma\OneDrive\Pictures\GITHUB\logs-a2.png)
+=> VICTIM LOGS 
+![Victim-logs](../logs-A.png)
+
+=> VICTIM LOGS
+![Victim-logs](../logs-a2.png)
