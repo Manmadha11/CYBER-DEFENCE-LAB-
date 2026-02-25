@@ -71,7 +71,7 @@ Phase 1 successfully establishes a controlled cyber defense lab environment with
 
 The lab is now prepared for SIEM service validation and subsequent attack simulation phases.
 
-![VM Overview](vm-overview.png)
+![VM Overview](../vm-overview.png)
 
 
 ![IP Verification](GITHUB/wazuh-ip.png)
@@ -82,6 +82,7 @@ The lab is now prepared for SIEM service validation and subsequent attack simula
 
 
 ![demo](GITHUB/vm-overview.png)
+
 
 
 
