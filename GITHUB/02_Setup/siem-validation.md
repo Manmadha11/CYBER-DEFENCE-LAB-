@@ -60,15 +60,17 @@ Phase 2 confirms that the SIEM infrastructure is functioning correctly and ready
 
 With monitoring validated, the lab can now safely proceed to attack surface discovery and vulnerability assessment.
 
+=> WAZUH ADGENT STATUS on ubuntu
+![Wazuh-agent](../w-agent-status.png)
 
-![Wazuh-agent](C:\Users\manma\OneDrive\Pictures\GITHUB\w-agent-status.png)
-![wazuh-manager](C:\Users\manma\OneDrive\Pictures\GITHUB\wazuh-status.png)
+=> WAZUH MANAGER STATUS on wazuh
+![wazuh-manager](../wazuh-status.png)
 
-![wazuh-dashboard](C:\Users\manma\OneDrive\Pictures\GITHUB\w1.png)
-![wazuh-dashboard](C:\Users\manma\OneDrive\Pictures\GITHUB\w2.png)
-![wazuh-dashboard](C:\Users\manma\OneDrive\Pictures\GITHUB\w3.png)
-![wazuh-dashboard](C:\Users\manma\OneDrive\Pictures\GITHUB\w4.png)
+=> WAZUH DASHBOARD 
+![wazuh-dashboard](../GITHUB\w1.png)
+![wazuh-dashboard](../w2.png)
+![wazuh-dashboard](../GITHUB\w3.png)
+![wazuh-dashboard](../w4.png)
 
 
-![wazuh-logs](C:\Users\manma\OneDrive\Pictures\GITHUB\w-logs.png)
-![Agent-logs](C:\Users\manma\OneDrive\Pictures\GITHUB\agent-logs.png)
+
