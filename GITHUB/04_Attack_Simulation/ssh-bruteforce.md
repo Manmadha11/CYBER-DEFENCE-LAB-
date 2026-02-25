@@ -56,8 +56,14 @@ Phase 4 successfully simulated a brute force attack against the target system, g
 
 This confirms that the lab environment can simulate real attack scenarios.
 
-![Hydra attack simulation](C:\Users\manma\OneDrive\Pictures\GITHUB\hydra-attc.png)
+=> HYDRA ATTACK SIMULATION
+![Hydra attack simulation](../hydra-attc.png)
 
-![Wazuh_agent logs](C:\Users\manma\OneDrive\Pictures\GITHUB\w-logs.png)
-![logs_victim](C:\Users\manma\OneDrive\Pictures\GITHUB\agent-logs.png)
-![Logs_victim](C:\Users\manma\OneDrive\Pictures\GITHUB\auth-log.png)
+=> ATTACK LOG DETECTION 
+![Wazuh_agent logs](../w-logs.png)
+
+=> VICTIM LOGS
+![logs_victim](../agent-logs.png)
+
+=> VICTIM AUTH LOGS
+![Logs_victim](../auth-log.png)
