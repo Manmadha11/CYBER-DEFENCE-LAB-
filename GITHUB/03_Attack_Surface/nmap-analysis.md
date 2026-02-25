@@ -51,8 +51,10 @@ Phase 3 successfully identified the attack surface of the target system and docu
 
 This provides the foundation for controlled attack simulation in the next phase.
 
-
+=> NMAP SCAN ON VICTIM 
 ![Nmap-scan](../nmap-scan.png)
 
+=> VICTIM SSH STATUS
 ![ssh-status](../ssh-status.png)
+
 
