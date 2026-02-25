@@ -81,6 +81,10 @@ The lab is now prepared for SIEM service validation and subsequent attack simula
 ![Connectivity Test](GITHUB/ping-test_bwt-vms.png)
 
 
+![demo](GITHUB/vm-overview.png)
+
+
+
 
 
 
