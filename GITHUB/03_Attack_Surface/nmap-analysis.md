@@ -52,6 +52,7 @@ Phase 3 successfully identified the attack surface of the target system and docu
 This provides the foundation for controlled attack simulation in the next phase.
 
 
-![Nmap-scan](C:\Users\manma\OneDrive\Pictures\GITHUB\nmap-scan.png)
+![Nmap-scan](../nmap-scan.png)
 
-![ssh-status](C:\Users\manma\OneDrive\Pictures\GITHUB\ssh-status.png)
+![ssh-status](../ssh-status.png)
+
