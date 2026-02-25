@@ -71,14 +71,23 @@ Phase 1 successfully establishes a controlled cyber defense lab environment with
 
 The lab is now prepared for SIEM service validation and subsequent attack simulation phases.
 
+
+=> VARTUAL MACHINES OVERVIEW
 ![VM Overview](../vm-overview.png)
 
-
+=> WAZUH VM IP ADDRESS
 ![IP Verification](../wazuh-ip.png)
+
+=> KALI VM IP ADDRESS
 ![IP Verification](../kali_ip.png)
+
+=> UBUNTU VICTIM IP ADDRESS
 ![IP Verification](../ubuntu-ip.png)
 
+
+=> CONNECTIVITY TEST B/W VIRTUAL MACHINES 
 ![Connectivity Test](../ping-test_bwt-vms.png)
+
 
 
 
