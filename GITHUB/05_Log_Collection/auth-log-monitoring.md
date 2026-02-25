@@ -41,9 +41,17 @@ Phase 5 confirms that the attack successfully generated authentication logs on t
 
 This validates the log generation process required for SIEM detection in the next phase.
 
+= LOGS VISUALIZATION 
+![Logs](../w-logs.png)
 
-![Logs]("C:\Users\manma\OneDrive\Pictures\GITHUB\w-logs.png")
-![Logs]("C:\Users\manma\OneDrive\Pictures\GITHUB\logs-w2.png")
-![Logs]("C:\Users\manma\OneDrive\Pictures\GITHUB\logs-A.png"")
-![Logs]("C:\Users\manma\OneDrive\Pictures\GITHUB\auth-log.png")
-![Logs]("C:\Users\manma\OneDrive\Pictures\GITHUB\logs-a2.png")
+=> LOGS
+![Logs](../logs-w2.png)
+
+=> AGENT LOGS
+![Logs](../logs-A.png)
+
+=> AUTHENTICATION LOGS
+![Logs](../auth-log.png)
+
+=> AUTHENTICATION LOGS
+![Logs](../logs-a2.png")
