@@ -67,5 +67,8 @@ Screenshots were captured showing the rule configuration and the triggered alert
 Phase 7 demonstrates the ability to design and implement custom detection logic to enhance SIEM capabilities.
 This confirms advanced understanding of detection engineering principles used in real SOC environments.
 
-![custum-log_rule](C:\Users\manma\OneDrive\Pictures\GITHUB\Log-rule.png)
+
+=? CUSTUM LOG RULE 
+![custum-log_rule](../Log-rule.png)
+
 
